@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.prueba</groupId>
-    <artifactId>demoyaml</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
-    <name>demoyaml</name>
+    <artifactId>asyncapp</artifactId>
+    <version>0.0.1</version>
+    <name>asyncapp</name>
     <description>Demo project for Spring Boot</description>
     <properties>
         <java.version>17</java.version>
